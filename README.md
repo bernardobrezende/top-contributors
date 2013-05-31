@@ -21,7 +21,15 @@ Python
 - etc..
 
 .NET
-- etc...
+- ASP.NET MVC
+- ASP.NET WEB Api
+- NUnit
+- Moq
+- NMock 
+- NHibernate
+- Fluent NHibernate
+- SignalR
+- Nancy
 
 Java
 - etc...
