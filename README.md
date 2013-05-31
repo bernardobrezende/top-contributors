@@ -7,21 +7,24 @@ Example:
 http://contributors.rubyonrails.org/
 
 Ruby
-# ruby on rails
-# sinatra
-# etc..
+- ruby on rails
+- sinatra
+- etc..
 
 PHP
-# zend framework
-# yii
-# symphony
-# etc..
+- zend framework
+- yii
+- symphony
+- etc..
 
 Python
+- etc..
 
 .NET
+- etc...
 
 Java
+- etc...
 
 Any contribution is very welcome via pull requests.
 
